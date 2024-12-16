@@ -397,5 +397,4 @@ class QuizApp:
 #Jalanin aplikasi
 root = tk.Tk()
 app = QuizApp(root)
-root.iconbitmap(".Logo_ITERA.ico")
 root.mainloop()
